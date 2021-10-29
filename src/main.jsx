@@ -1,11 +1,20 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
-import App from './App'
+import Hotstar from "./Hotstar"
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Hotstar />
   </React.StrictMode>,
   document.getElementById('root')
 )
+
+//heroku
+
+//
+
+
+
+
+
